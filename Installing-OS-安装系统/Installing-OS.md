@@ -10,4 +10,4 @@ I chose the official Raspbian with desktop. It can be download from [here](https
 
 Note that if you choose the one without desktop, you will only get a command line interface.
 
-The one with desktop and recommended software will contain some useful softwares. You can also choose not to install them by select the one only with desktop and install your favorite softwares later.
+The one with desktop and recommended software will contain some useful softwares. You can also choose not to install them by select the one only with desktop and install your favorite softwares later manually.
