@@ -12,3 +12,7 @@
 ```bash
 sudo mount -t cifs -ro,username='user',password='password',port=445 //ip_address/share_name /mnt/point
 ```
+
+```bash
+smbclient -p 445 //ip_address/share_name -U user%password
+```
